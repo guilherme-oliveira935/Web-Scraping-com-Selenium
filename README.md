@@ -39,5 +39,5 @@ Em seguida, vai enviar um e-mail com a lista dos produtos abaixo do seu preço m
 - Clonar esse repositório;
 - Mudar as linhas de códigos indicadas no arquivo projeto.ipynb para o devido caminho dos diretórios;
 
-### Autor:
+## Autor:
 Guilherme Oliveira
